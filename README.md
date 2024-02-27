@@ -126,3 +126,11 @@ If you are running the application in a ubuntu/debian os, then you can find your
 1. Along with the swagger docs, I am also attaching a postman collection. You can find it in the `./tests` directory.
 2. In the `environment` variables you will find a `DEBUG` variable. If it is set to `0` then log level will be `ERROR` only. If it is set to `1`, then we get to see `INFO` loglevel.
 3. I have already created a user `email=soham@gmail.com` and `password=Soham@123`
+
+## Contribution and Support
+Contributions to the DNS Resolver project are welcome. Feel free to submit issues, pull requests, or suggestions on the [GitHub repository](https://github.com/Desmond167/dns-resolver.git).
+
+For support or questions, please contact [career.soham.dev@gmail.com](mailto:career.soham.dev@gmail.com).
+
+## License
+This project is licensed under the [MIT License](LICENSE.md).
