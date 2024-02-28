@@ -128,7 +128,7 @@ If you are running the application in a ubuntu/debian os, then you can find your
 3. I have already created a user `email=soham@gmail.com` and `password=Soham@123`
 
 ## Contribution and Support
-Contributions to the DNS Resolver project are welcome. Feel free to submit issues, pull requests, or suggestions on the [GitHub repository](https://github.com/Desmond167/dns-resolver.git).
+Contributions to the DNS Resolver project are welcome. Feel free to submit issues, pull requests, or suggestions on the [GitHub repository](https://github.com/SohamChk/address-book.git).
 
 For support or questions, please contact [career.soham.dev@gmail.com](mailto:career.soham.dev@gmail.com).
 
